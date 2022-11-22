@@ -1,27 +1,13 @@
-# Sagar Badki
-
-[![linkedin](https://github.com/sagarbadki/sagarbadki/blob/master/linkedin-logo.png)](https://www.linkedin.com/in/sagar-badki/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/sagarbadki/sagarbadki/blob/master/mail.png)](mailto:sagarbadki@gmail.com)
-
+# Rachi Nikose
 
 
 ### Hi there 👋
 
-Being a Data whizz and having exceptional knowledge in data gathering, data preprocessing, data visualization, feature engineering, and model evaluation make me curious to solve real-life problems by Predictive Analysis and AI. my main focus to derive great business outcomes through a data-driven approach.  
+Excellent analytical problem solving and research aptitude using a strategic methodology and requires minimal supervision. Expertise in area of implementing, testing and optimizing machine learning models,collecting and improving quality of data, and finding useful insights.
 
+🔭 I’m currently working on machine learning project.
 
-🔭 I’m currently working on Chatbots and NLP Projects
-
-🌱 I’m currently learning Sequence to Sequence models, Agile Methodology and Cloud Architecture.
-
-👯 I’m looking to collaborate on any **ML** and **AI** Project
-
-🤔 I’m looking for help with Chatbots and NLP Projects
-
-💬 You can ask me about ML, Statistics, Data Analysis, Computer Vision, Data Annotations, Big Data(Pyspark), AWS and NLP as well.
-
-📫 How to reach me: You can contact me via sagarbadki@gmail.com
-
-😄 Pronouns: Machine Learning Engineer
+📫 How to reach me: You can contact me via ranchinikose123@gmail.com
 
 Fun fact: I get bored when work is not challenging
 
