@@ -6,7 +6,7 @@
 
 <h3 align="center"><em>Data Data Data Everywhere!!!</em></h3>
 
-<p>This is what I have learned over the past few years. I am an innovative person by nature and a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science.</p>
+<p>This is what I have learned over the past few years. I am an innovative person by nature and a tech enthusiast who loves working with data and solve problems using Data Analysis and Business Intelligence.</p>
 
 <hr>
 <img align="right" src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" height="150px" width="200px">
