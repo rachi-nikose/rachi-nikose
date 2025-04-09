@@ -41,9 +41,9 @@
 <hr>
 
 <img align="right" src="https://media.giphy.com/media/C4taUWWpR8frEpzcMM/giphy.gif" height="150px" width="200px">
-<h3>🦄 While I am not doing Data Science 😉</h3>
+<h3>🦄 While I am not doing Data Analysis 😉</h3>
 <ul>
-    <li>Watch a movie  🤓</li>
+    <li>Cycling  </li>
     <li>Cook an amazing dish 👨‍🍳😋</li>
     <li>Reading novels </li>
     <li> Writing 💚</li>
