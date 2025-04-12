@@ -16,7 +16,7 @@
 
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
-<li>👨‍💻 I'm currently a <em>Data Analyst</em> at <strong>Clootrack Software lab</strong>.</li>
+<li>👨‍💻 I have worked as a <em>Data Analyst</em> at <strong>Clootrack Software lab</strong>.</li>
 <li>☁  Worked as a <em>Data Science intern</em> at <strong>Advids</strong></li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
 </ul>
